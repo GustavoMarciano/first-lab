@@ -1,2 +1,2 @@
 # first-lab
-My first Devops Lab
+My first DevOps Lab
